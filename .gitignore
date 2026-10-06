@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+# licensed market data and large chart images are not published
+trading-research/data/bars/
+trading-research/data/raw/
+trading-research/data/flow/
